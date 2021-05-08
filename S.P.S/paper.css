@@ -1,0 +1,112 @@
+*
+{
+	background-color:#429BB8;
+	margin:0;
+	padding:0;
+}
+
+.jack
+{
+   border:solid;
+   height:10%;
+   width:10%;
+   background-color:#ffffff;
+   border-width:7px;
+   border-radius:50%;
+   transition-duration:0.3s;	
+}
+#mainlabel
+{
+	position:relative;
+	margin-left:44%;
+	margin-top:20px; 
+	text-align:center;
+	border-style:solid;
+	height:80px;
+	width:160px;
+	border-width:4px;
+	border-color:#ffffff;
+	font-family:"Times New Roman";
+	font-size:65px;
+	color:#ffffff;
+	
+
+}
+#user
+{
+	position:absolute;
+	background-color:red;
+	border-color:#ffffff;
+	height:20px;
+	width:40px;
+	font-size:16px;
+	font-family:"Times New Roman";
+	margin-top:30px;
+	margin-left:-23px;
+}
+
+#pc
+{
+	position:absolute;
+	background-color:red;
+	border-color:#ffffff;
+	height:20px;
+	width:40px;
+	font-size:16px;
+	font-family:"Times New Roman";
+	margin-top:30px;
+	margin-left:145px;
+}
+
+.jack{
+	text-align:center; 
+	border-color:#ffffff;
+	margin:20px;
+}
+
+.jack:hover
+{	
+
+	height:15%;
+	width:15%;
+	cursor:pointer;
+}
+
+
+header
+{
+	text-align:center;
+	font-size:55px;
+	background-color:#000000;
+	color:#ffffff;
+	height:60px;
+	font-family:"Times New Roman";
+
+}
+
+h1
+{
+text-align:center;
+text-decoration-color:transparent;
+margin-top:20px;
+margin-bottom:20px;
+}
+
+h2
+{
+	margin:20px;
+}
+
+.green_color
+{
+	border-color:#00ff00;
+}
+
+.red_color{
+	border-color:#ff0000;
+
+}
+.grey_color{
+	border-color:#101010;
+}
+
